@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/softprops/action-gh-release.git"
+    "url": "git+https://github.com/ospfranco/action-gh-release.git"
   },
   "keywords": [
     "actions"
   ],
-  "author": "softprops",
+  "author": "ospfranco",
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.1",
